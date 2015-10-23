@@ -68,4 +68,7 @@ theme: yilia
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+    type: git
+    repo: 
+      gitcafe: git@gitcafe.com:jabari/blog.git,gitcafe-pages
+
