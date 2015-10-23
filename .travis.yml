@@ -23,6 +23,8 @@ branches:
 before_install:
 - npm install -g hexo-cli
 
+
+
 install:
 #- npm install hexo-renderer-ejs@0.1.0 --save
 #- npm install hexo-renderer-marked@0.1.0 --save
